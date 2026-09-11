@@ -1,0 +1,16 @@
+/*
+ * Generated or edited with ChatGPT.
+ * Reference chat: https://chatgpt.com/share/6aa43d9a-d1b0-83eb-8cbb-49a54066e77e
+ */
+
+@import "tailwindcss";
+
+@theme {
+  --color-custom-red: #243c5a;
+}
+
+body {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #303035;
+}
