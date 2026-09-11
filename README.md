@@ -1,3 +1,6 @@
+# tsl-patterns
+TSL exercises with React Three Fiber and Nextjs.
+
 ## ChatGPT attribution
 
 Project source code was generated or edited with ChatGPT. [Reference conversation](https://chatgpt.com/share/6aa43d9a-d1b0-83eb-8cbb-49a54066e77e). Source files include this attribution in their header comments.
