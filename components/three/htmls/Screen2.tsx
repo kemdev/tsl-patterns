@@ -41,10 +41,10 @@ export default function Screen2({ currentSelectedPatternIndex }: Screen2Props) {
 
   return (
     <>
-      <Pattern
+      {/* <Pattern
         patternIndex={currentSelectedPatternIndex}
         ref={patternRef}
-      />
+      /> */}
       <mesh position={[0, 1, -2]}>
         {/* <planeGeometry args={[8, 3, 1, 1]} />
         <meshBasicMaterial color="#6b6bb4" /> */}
